@@ -1,2 +1,5 @@
 # hello-world
-A brand new greeting in the technology field.
+
+Greetings, everyone!
+
+...and that's pretty much all I had to say.
